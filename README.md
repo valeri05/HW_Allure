@@ -1,1 +1,1 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/jsol0ongmhw70lyj?svg=true)](https://ci.appveyor.com/project/valeri05/hw-patterns-1)
+![image](https://github.com/valeri05/HW_Allure/assets/132645004/c3953a48-df2a-47a4-960a-64c137d387ee)
